@@ -1,0 +1,4 @@
+scope is where variables live in memory.
+
+
+var a ; new memory is created.
